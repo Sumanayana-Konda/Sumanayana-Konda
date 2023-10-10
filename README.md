@@ -5,6 +5,13 @@
 
 I am constantly seeking new challenges and opportunities to apply my skills. If you're looking for a dedicated engineer with a passion for innovation, please feel free to connect with me!
 
+## 🔧 **SKILLS**
+- **Programming Languages:** Python, JavaScript, SQL, Java, MATLAB, Bash
+- **Web Development:** Node.js, Express.js
+- **DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD (GitHub), Microservices
+- **Databases:** MySQL, PostgreSQL, Oracle, DynamoDB
+- **Monitoring:** CloudWatch, Splunk, Datadog, AWS X-Ray
+
 ## 🎓 **EDUCATION**
 - 🏫 **NORTHEASTERN UNIVERSITY, Boston, MA**
   - Master of Science in Information Systems (GPA: 3.53/4.0)
@@ -52,12 +59,6 @@ I am constantly seeking new challenges and opportunities to apply my skills. If 
   - Engineered a user-friendly Streamlit tool for data quality assessment.
   - Performed data validation with AWS S3, DynamoDB, and Great Expectations.
 
-## 🔧 **SKILLS**
-- **Programming Languages:** Python, JavaScript, SQL, Java, MATLAB, Bash
-- **Web Development:** Node.js, Express.js
-- **DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD (GitHub), Microservices
-- **Databases:** MySQL, PostgreSQL, Oracle, DynamoDB
-- **Monitoring:** CloudWatch, Splunk, Datadog, AWS X-Ray
 
 
 
