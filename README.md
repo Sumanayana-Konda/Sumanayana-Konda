@@ -1,16 +1,15 @@
-### Hi there 👋
+# ✨About Me ✨ 
 
-<!--
-**Sumanayana-Konda/Sumanayana-Konda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate student at Northeastern University, Boston MA. I am currently working as a research assistant in Northeastern University for a NSF funded project.
+🌱 I am an aspring Software/Data Engineer looking to develop my tech stack.
 
-Here are some ideas to get you started:
+# ✨How to reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [Linkedin](https://www.linkedin.com/in/sumanayana-konda/)
+#### [Portfolio](https://sumanayana.my.canva.site/)
+#### [Mail](konda.su@northeastern.edu)
+
+
+
+
+
