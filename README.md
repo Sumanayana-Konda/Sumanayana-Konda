@@ -1,12 +1,11 @@
-Sumanayana Konda
-Boston, MA | 857-437-2716 | [GitHub](https://github.com/yourgithub) | [LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Portfolio](https://yourportfolio.com) | konda.su@northeastern.edu
+## About Me!
+👋 **Hello! I'm Sumanayana Konda,** a results-driven technophile and a versatile engineer with a passion for crafting innovative solutions that bridge the gap between software development, data engineering, and site reliability engineering. With a strong academic foundation and hands-on experience, I bring a dynamic skill set to the table.
+
+**[GitHub](https://github.com/yourgithub) | [LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Portfolio](https://yourportfolio.com) | konda.su@northeastern.edu**
 
 I am constantly seeking new challenges and opportunities to apply my skills. If you're looking for a dedicated engineer with a passion for innovation, please feel free to connect with me!
 
-
-👋 Hello! I'm Sumanayana Konda, a results-driven technophile and a versatile engineer with a passion for crafting innovative solutions that bridge the gap between software development, data engineering, and site reliability engineering. With a strong academic foundation and hands-on experience, I bring a dynamic skill set to the table.
-
-🎓 **EDUCATION**
+## 🎓 **EDUCATION**
 - 🏫 **NORTHEASTERN UNIVERSITY, Boston, MA**
   - Master of Science in Information Systems (GPA: 3.53/4.0)
   - Relevant Courses: Data Science Engineering, Network Structures and Cloud Computing, Data Management and Database Design, Big Data Systems, and Intelligence Analytics
@@ -14,7 +13,7 @@ I am constantly seeking new challenges and opportunities to apply my skills. If 
   - Bachelor of Technology, Electronics and Communication Engineering, Honors (3.52/4)
   - Relevant courses: Computer Networking, Data Structure and Algorithms, Object-Oriented Programming
 
-💼 **EXPERIENCE**
+## 💼 **EXPERIENCE**
 - 👨‍💻 **Research Assistant (Full Stack Development), Northeastern University**
   - Collaborated on a project funded by NSF Award NRI, focusing on Multi-Robot Reinforcement Learning with a human vs. robot gaming web app.
   - Proficient in Node.js, AWS, Docker, GitHub CI/CD, and automation scripts.
@@ -29,7 +28,7 @@ I am constantly seeking new challenges and opportunities to apply my skills. If 
 - 📚 **Graduate Teaching Assistant (Data Analyst), Northeastern University**
   - Managed and graded assignments for 50 students.
 
-🚀 **PROJECTS**
+## 🚀 **PROJECTS**
 - 💿 **Music Database Management System, Northeastern University**
   - Led a team to design an Oracle-based Relational Database Management System.
   - Improved query performance with stored procedures and triggers.
@@ -53,7 +52,7 @@ I am constantly seeking new challenges and opportunities to apply my skills. If 
   - Engineered a user-friendly Streamlit tool for data quality assessment.
   - Performed data validation with AWS S3, DynamoDB, and Great Expectations.
 
-🔧 **SKILLS**
+## 🔧 **SKILLS**
 - **Programming Languages:** Python, JavaScript, SQL, Java, MATLAB, Bash
 - **Web Development:** Node.js, Express.js
 - **DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD (GitHub), Microservices
