@@ -36,6 +36,11 @@ I am constantly seeking new challenges and opportunities to apply my skills. If 
   - Managed and graded assignments for 50 students.
 
 ## 🚀 **PROJECTS**
+
+- 🌐 **Amazon EKS 2048 Game Deployment, Northeastern University**
+  - Successfully deployed and managed a complex 2048 game on an Amazon EKS (Elasdc Kubernetes Service) cluster with helm, achieving a remarkable 99.9% updme, ensuring uninterrupted user access
+  - Implemented OIDC (OpenID Connect) authendcadon for the EKS cluster, enhancing security and enabling seamless authendcadon for users, resuldng in a 30% reducdon in unauthorized access amempts
+
 - 💿 **Music Database Management System, Northeastern University**
   - Led a team to design an Oracle-based Relational Database Management System.
   - Improved query performance with stored procedures and triggers.
