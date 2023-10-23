@@ -6,7 +6,7 @@ a results-driven technophile and a versatile engineer with a passion for craftin
 
 ![](https://komarev.com/ghpvc/?username=Sumanayana-Konda&color=blue)
 
-**[GitHub](https://github.com/yourgithub) | [LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Portfolio](https://yourportfolio.com) | konda.su@northeastern.edu**
+[LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Portfolio](https://yourportfolio.com) | konda.su@northeastern.edu**
 
 I am constantly seeking new challenges and opportunities to apply my skills. If you're looking for a dedicated engineer with a passion for innovation, please feel free to connect with me!
 
