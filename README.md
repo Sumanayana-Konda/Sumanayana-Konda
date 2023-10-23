@@ -1,4 +1,4 @@
-## About Me!
+
 # 👋 **Hello! I'm Sumanayana Konda,** 
 
 a results-driven technophile and a versatile engineer with a passion for crafting innovative solutions that bridge the gap between software development, data engineering, and site reliability engineering. With a strong academic foundation and hands-on experience, I bring a dynamic skill set to the table. Interests involve 🎧 Listening to Taylor Swift | 📖 Reading Sarah J Mass | 🚴‍♂️ Cycling
