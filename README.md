@@ -12,6 +12,8 @@ I am constantly seeking new challenges and opportunities to apply my skills. If 
 - **Databases:** MySQL, PostgreSQL, Oracle, DynamoDB
 - **Monitoring:** CloudWatch, Splunk, Datadog, AWS X-Ray
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanayana-Konda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🎓 **EDUCATION**
 - 🏫 **NORTHEASTERN UNIVERSITY, Boston, MA**
   - Master of Science in Information Systems (GPA: 3.53/4.0)
