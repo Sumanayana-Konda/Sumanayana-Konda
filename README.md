@@ -1,70 +1,58 @@
 ## About Me!
-👋 **Hello! I'm Sumanayana Konda,** a results-driven technophile and a versatile engineer with a passion for crafting innovative solutions that bridge the gap between software development, data engineering, and site reliability engineering. With a strong academic foundation and hands-on experience, I bring a dynamic skill set to the table.
+# 👋 **Hello! I'm Sumanayana Konda,** 
+
+a results-driven technophile and a versatile engineer with a passion for crafting innovative solutions that bridge the gap between software development, data engineering, and site reliability engineering. With a strong academic foundation and hands-on experience, I bring a dynamic skill set to the table. Interests involve 🎧 Listening to Taylor Swift | 📖 Reading Sarah J Mass | 🚴‍♂️ Cycling
+
+
+![](https://komarev.com/ghpvc/?username=Sumanayana-Konda&color=blue)
 
 **[GitHub](https://github.com/yourgithub) | [LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [Portfolio](https://yourportfolio.com) | konda.su@northeastern.edu**
 
 I am constantly seeking new challenges and opportunities to apply my skills. If you're looking for a dedicated engineer with a passion for innovation, please feel free to connect with me!
 
+- 🔭 **Fun Fact**: I once coded for 48 hours straight.
+- 📫 **Reach Out**: Always eager to connect and collaborate.
+- 📚 **Latest Read**: "The Secret Life of Addie Ray".
+
 ## 🔧 **SKILLS**
-- **Programming Languages:** Python, JavaScript, SQL, Java, MATLAB, Bash
-- **Web Development:** Node.js, Express.js
-- **DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD (GitHub), Microservices
-- **Databases:** MySQL, PostgreSQL, Oracle, DynamoDB
-- **Monitoring:** CloudWatch, Splunk, Datadog, AWS X-Ray
+- **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+ ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+ ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+ ![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=mathworks)
+ ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
+
+- **Web Development:** ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+ ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+
+- **DevOps:** ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
+![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=github-actions)
+![Microservices](https://img.shields.io/badge/-Microservices-black?style=flat-square&logo=microservices)
+
+- **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-black?style=flat-square&logo=amazon-dynamodb)
+
+- **Monitoring:** ![CloudWatch](https://img.shields.io/badge/-CloudWatch-black?style=flat-square&logo=amazon-cloudwatch)
+![Splunk](https://img.shields.io/badge/-Splunk-black?style=flat-square&logo=splunk)
+![Datadog](https://img.shields.io/badge/-Datadog-black?style=flat-square&logo=datadog)
+![AWS X-Ray](https://img.shields.io/badge/-AWS_X--Ray-black?style=flat-square&logo=aws-x-ray)
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanayana-Konda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🎓 **EDUCATION**
-- 🏫 **NORTHEASTERN UNIVERSITY, Boston, MA**
-  - Master of Science in Information Systems (GPA: 3.53/4.0)
-  - Relevant Courses: Data Science Engineering, Network Structures and Cloud Computing, Data Management and Database Design, Big Data Systems, and Intelligence Analytics
-- 🏫 **SASTRA UNIVERSITY, Thanjavur, India**
-  - Bachelor of Technology, Electronics and Communication Engineering, Honors (3.52/4)
-  - Relevant courses: Computer Networking, Data Structure and Algorithms, Object-Oriented Programming
+![GitHub stars](https://img.shields.io/github/stars/Sumanayana-Konda?style=social)
 
-## 💼 **EXPERIENCE**
-- 👨‍💻 **Research Assistant (Full Stack Development), Northeastern University**
-  - Collaborated on a project funded by NSF Award NRI, focusing on Multi-Robot Reinforcement Learning with a human vs. robot gaming web app.
-  - Proficient in Node.js, AWS, Docker, GitHub CI/CD, and automation scripts.
-  - Analyzed large datasets and presented insights using Excel and Power BI.
-  - Led agile development to optimize web app performance.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumanayana-Konda)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-- 📊 **Graduate Research Assistant (Data Analyst), Northeastern University**
-  - Assisted in Low Vision and Brain Research with 96% data accuracy.
-  - Proficient in data visualization using Tableau.
-  - Automated data retrieval and analysis, reducing research time by 40%.
 
-- 📚 **Graduate Teaching Assistant (Data Analyst), Northeastern University**
-  - Managed and graded assignments for 50 students.
 
-## 🚀 **PROJECTS**
-
-- 🌐 **Amazon EKS 2048 Game Deployment, Northeastern University**
-  - Successfully deployed and managed a complex 2048 game on an Amazon EKS (Elasdc Kubernetes Service) cluster with helm, achieving a remarkable 99.9% updme, ensuring uninterrupted user access
-  - Implemented OIDC (OpenID Connect) authendcadon for the EKS cluster, enhancing security and enabling seamless authendcadon for users, resuldng in a 30% reducdon in unauthorized access amempts
-
-- 💿 **Music Database Management System, Northeastern University**
-  - Led a team to design an Oracle-based Relational Database Management System.
-  - Improved query performance with stored procedures and triggers.
-
-- 🌐 **Full-Stack User Management Web Application, Northeastern University**
-  - Engineered REST APIs and deployed on AWS, achieving high uptime.
-  - Enhanced database performance and scalability.
-
-- 💉 **Healthcare Management System - Northeastern University**
-  - Developed a role-based authentication system and a scalable database architecture.
-
-- 📈 **Predictive Data Analytics Web App, Northeastern University**
-  - Built machine learning models for time series forecasting with Flask APIs.
-  - Scraped and cleaned data from APIs and optimized ML models.
-
-- 📄 **PDF Document Summarization Tool (Data Extraction and Analysis), Northeastern University**
-  - Developed a Streamlit-based application for efficient document processing.
-  - Integrated with OpenAI API for question-answering capabilities.
-
-- 📊 **Data Quality Assessment Tool, Northeastern University**
-  - Engineered a user-friendly Streamlit tool for data quality assessment.
-  - Performed data validation with AWS S3, DynamoDB, and Great Expectations.
 
 
 
