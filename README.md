@@ -18,7 +18,7 @@ Interests involve 🎧 Listening to Taylor Swift | 📖 Reading Sarah J Mass | �
 
 I am constantly seeking new challenges and opportunities to apply my skills. If you're looking for a dedicated engineer with a passion for innovation, please feel free to connect with me!
 
-- 🔭 **Fun Fact**: I once coded for 48 hours straight.
+- 🔭 **Fun Fact**: I have a collection of 34 pillows.
 - 📫 **Reach Out**: Always eager to connect and collaborate.
 - 📚 **Latest Read**: "The Secret Life of Addie Ray".
 
