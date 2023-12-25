@@ -1,7 +1,13 @@
 
 # 👋 **Hello! I'm Sumanayana Konda,** 
 
-a results-driven technophile and a versatile engineer with a passion for crafting innovative solutions that bridge the gap between software development, data engineering, and site reliability engineering. With a strong academic foundation and hands-on experience, I bring a dynamic skill set to the table. 
+I'm thrilled to have you visit my GitHub profile. Here, you'll find a collection of my coding adventures and projects, all stemming from my passion for technology and problem-solving.
+
+As a current student pursuing a Master of Science in Information Systems at Northeastern University, I'm on a continuous journey of learning and exploration. My GitHub repository is a reflection of the skills and knowledge I've acquired, with a focus on data analysis, software development, and data-driven decision-making.
+
+I believe in the power of collaboration and open-source contributions, and I'm always excited to engage with the developer community. Whether it's sharing insights, working on exciting projects, or simply geeking out over code, I'm here to connect and grow together.
+
+Feel free to explore my projects, provide feedback, or reach out for collaboration opportunities. Let's build and learn together in the ever-evolving world of technology! 🚀
 
 Interests involve 🎧 Listening to Taylor Swift | 📖 Reading Sarah J Mass | 🚴‍♂️ Cycling
 
