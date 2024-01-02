@@ -51,14 +51,9 @@ I am constantly seeking new challenges and opportunities to apply my skills. If 
 ![AWS X-Ray](https://img.shields.io/badge/-AWS_X--Ray-black?style=flat-square&logo=aws-x-ray)
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanayana-Konda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stars](https://img.shields.io/github/stars/Sumanayana-Konda?style=social)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumanayana-Konda)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+<p align="center">
+  <img src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif"/>
+</p>
 
 
 
